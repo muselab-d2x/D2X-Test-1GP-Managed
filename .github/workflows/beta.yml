@@ -1,4 +1,4 @@
-name: 2GP Beta Test
+name: Beta Test
 on:
     push:
         branches:
