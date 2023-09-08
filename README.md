@@ -1,1 +1,0 @@
-# D2X-Test-1GP-Managed
